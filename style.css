@@ -1,0 +1,65 @@
+#rödbox{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: solid rgb(255, 0, 0) 4px;
+    align-items: center;
+    height: 85px;
+}
+
+
+
+#blårubrikmedsvartruta{
+    border: rgb(0, 0, 0) solid 2px;
+    background-color: rgba(0, 212, 212, 0.801);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 0.1%;
+    padding-bottom: 0.1%;
+    padding-left: 0.1%;
+    padding-right: 0.1%;
+}
+
+
+
+
+#lilabox{
+    background-color: rgb(247, 0, 255);
+    border: solid rgb(0, 0, 0) 4px;
+    width: 50%;
+    text-align: center;
+    padding: 2%;
+    margin-left: 0.1%;
+   
+}
+
+
+
+#gulbox{
+    background-color: rgb(248, 248, 8);
+    border: solid rgb(0, 0, 0) 4px;
+    width: 50%;
+    text-align: center;
+    padding: 2%;
+    margin-right: 0.1%;
+ 
+}
+
+
+#rubrikergullila{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: solid rgb(219, 145, 7) 4px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+}
+
+
+
+#text{
+    border: rgb(255, 255, 11) 4px solid;
+
+}
